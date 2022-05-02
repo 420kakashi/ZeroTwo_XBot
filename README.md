@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> ZERO TWO </h4>
 
 <p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
@@ -29,7 +29,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 - TheRealPhoenixBot
 - DaisyX 
 - WilliamButcherBot
-```
+
 
 ### Support
 <p>
